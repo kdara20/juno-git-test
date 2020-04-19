@@ -9,3 +9,12 @@ body {
 	background: #eee;
 	font-family: 'Open Sans', sans-serif;
 }
+
+.wrapper {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+h1 {
+	color: red;
+}
